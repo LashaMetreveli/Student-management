@@ -8,7 +8,7 @@
    
    Login screen 
    
-   ![image](https://github.com/lasha1metreveli/Personal-Projects/blob/master/images/login.PNG)
+   ![image](https://github.com/lasha1metreveli/Student-management/blob/master/images/login.PNG)
    
 
    
